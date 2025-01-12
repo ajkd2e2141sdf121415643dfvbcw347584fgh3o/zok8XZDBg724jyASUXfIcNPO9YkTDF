@@ -1754,3 +1754,4 @@ function Update:Window(text, logo, keybind)
     end
     return uitab
 end
+return Update
