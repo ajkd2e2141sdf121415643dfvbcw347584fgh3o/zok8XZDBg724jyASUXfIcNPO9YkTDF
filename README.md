@@ -1,3 +1,4 @@
+_G.Color = Color3.fromRGB(0, 86, 255)
 function Vec(text)
     local Notification = require(game.ReplicatedStorage.Notification)
     local notification = Notification.new(text)
